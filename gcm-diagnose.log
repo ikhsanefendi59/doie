@@ -1,0 +1,199 @@
+﻿Diagnose log at 2026-06-29T06:38:46Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+ANDROID_SDK_ROOT=C:\Users\ikhsane\AppData\Local\Android\Sdk
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=NB-4206
+GIT_TRACE2_PARENT_SID=e7e630af-55e9-44b0-bb7f-3705b21bfc9e
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\ikhsane\OneDrive - PT. Terminal Petikemas Surabaya
+ChocolateyLastPathUpdate=133869289670271062
+PYTHON_BASIC_REPL=1
+HOMEPATH=\Users\ikhsane
+SESSIONNAME=Console
+TMP=C:\Users\ikhsane\AppData\Local\Temp
+PROCESSOR_REVISION=4401
+CLAUDE_CODE_SSE_PORT=19660
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+GIT_ASKPASS=c:\Users\ikhsane\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\ikhsane\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\ikhsane\AppData\Local
+MSYSTEM=MINGW64
+ANDROID_HOME=C:\Users\ikhsane\AppData\Local\Android\Sdk
+COPILOT_DEBUG_NONCE=26a7b178c86f9ad98f854734eb17bcde
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+ProgramW6432=C:\Program Files
+JAVA_HOME=C:\Program Files\Eclipse Adoptium\jdk-17.0.15.6-hotspot
+USERDOMAIN=TPS
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ikhsane\bin;c:\Users\ikhsane\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\ikhsane\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Oracle Client for Microsoft Tools\;C:\Program Files\Eclipse Adoptium\jdk-17.0.15.6-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\build-tools\33.0.0;C:\Program Files\Tesseract-OCR\;C:\oracle\instantclient_19_21;C:\ffmpeg\bin;C:\Users\ikhsane\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\ikhsane\AppData\Local\Programs\Python\Python312\;C:\Users\ikhsane\AppData\Local\Programs\Python\Launcher\;C:\Users\ikhsane\AppData\Local\Microsoft\WindowsApps;C:\Users\ikhsane\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ikhsane\AppData\Roaming\npm;C:\Users\ikhsane\AppData\Local\Android\Sdk\platform-tools;C:\Users\ikhsane\AppData\Local\Android\Sdk\emulator;C:\Users\ikhsane\AppData\Local\Android\Sdk\tools;C:\Users\ikhsane\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.15.6-hotspot\bin;C:\Users\ikhsane\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\ikhsane\AppData\Local\Android\Sdk\build-tools\33.0.0;C:\Program Files\Eclipse Adoptium\jdk-17.0.15.6-hotspot\bin;C:\Program Files\Tesseract-OCR\;C:\Users\ikhsane\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\ikhsane\AppData\Local\Programs\Windsurf\bin
+USERDNSDOMAIN=TPS.CO.ID
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=25
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD
+TMPDIR=C:\Users\ikhsane\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+TERM_PROGRAM_VERSION=1.124.0
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\ikhsane\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass-main.js
+PSModulePath=C:\Users\ikhsane\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=16
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-353a66f80e-sock
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_22520_GSYAOGRENECZAVJH
+EFC_17328=1
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+PLINK_PROTOCOL=ssh
+VSCODE_GIT_ASKPASS_NODE=C:\Users\ikhsane\AppData\Local\Programs\Microsoft VS Code\Code.exe
+SystemRoot=C:\WINDOWS
+PYTHONSTARTUP=c:\Users\ikhsane\AppData\Roaming\Code\User\workspaceStorage\41a95d881b643efc8ff62da2f238ae6d\ms-python.python\pythonrc.py
+HOME=C:\Users\ikhsane
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\TPSAD00
+USERPROFILE=C:\Users\ikhsane
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=TPS
+TERM=xterm-256color
+APPDATA=C:\Users\ikhsane\AppData\Roaming
+HOMEDRIVE=C:
+OneDriveCommercial=C:\Users\ikhsane\OneDrive - PT. Terminal Petikemas Surabaya
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+USERNAME=IkhsanE
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+LANG=en_US.UTF-8
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\ikhsane\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\ikhsane\AppData\Local\Temp\658140bfac1e5f49783c4bae'... OK
+Reading from temporary file 'C:\Users\ikhsane\AppData\Local\Temp\658140bfac1e5f49783c4bae'... OK
+Deleting temporary file 'C:\Users\ikhsane\AppData\Local\Temp\658140bfac1e5f49783c4bae'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\ikhsane
+UserDataDirectoryPath: C:\Users\ikhsane\.gcm
+GetCurrentDirectory(): C:\Users\ikhsane\Downloads\doie
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:58455/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.49.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/ikhsane/Downloads/doie/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/ikhsane/.gitconfig	user.name=ikhsanefendi59
+file:C:/Users/ikhsane/.gitconfig	user.email=ikhsanefendi59@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/ikhsanefendi59/doie.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\ikhsane\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\ikhsane\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
